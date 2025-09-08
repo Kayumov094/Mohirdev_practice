@@ -1,5 +1,6 @@
-# Subplots_amaliyot
-amaliyot davomida qilingan ishlar
+# Mohirdev Kursidagi amaliyot ishlarim
+Ushbu fayllardagi qilingan ishlar IT sohasiga dastlabki qadamlarimdan.
+Ayrim joylari takrorlangan yokida xato bolishi mumkin!
 
 
-yangicha amaliyot
+ 
